@@ -22,12 +22,12 @@ further_reading_links:
 # recording_link: https://www.youtube.com/watch?v=FHG2oizTlpY
 
 # (optional) Link to any slides associated with the workshop
-# slides_link: https://docs.google.com/presentation/d/10VeyoN7EzxfezPjInAda_uEBZ1yp1UkY7z8ST78Do8Q
+slides_link: https://docs.google.com/presentation/d/14dPGvMNAWoJQTZDPpmcuUcTYOGZs6-ljNpMRgO4tYo8/present
 
 # A set of keywords associated with the workshop
 tags:
-  - open source
-  - contributing
+  - git
+  - github
 
 # A license code by which the workshop content is released
 license: MIT
