@@ -1,3 +1,1 @@
-If you have a Windows laptop, please install the application 'PuTTY' before you arrive by downloading ['putty.exe'](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html)
-
-This workshop requires connection to a UNIX machine (Linux, macOS) so to play along you'll be connecting to a UNIX machine using PuTTY.
+If you want to start your first contribution there and then, you'll need a text editor and a Git client — Visual Studio Code (https://code.visualstudio.com/) and GitHub Desktop (https://desktop.github.com) are good tools to start off with.

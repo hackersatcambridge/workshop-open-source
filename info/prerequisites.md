@@ -1,3 +1,1 @@
-This workshop assumes:
-- Basic command line knowledge (you should be comfortable with the `cd`, `ls`, and `man` commands)
-- Some basic programming experience (you should be familiar with variables, loops and functions)
+You'll need some basic programming experience to follow along with the demonstrations. A tiny bit of experience with the basics of Git will help, but isn't necessary! You should be able to follow along regardless!
