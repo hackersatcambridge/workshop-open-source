@@ -2,7 +2,7 @@ title: Contributing to Open Source
 
 # For an example of all the available fields, please refer to https://github.com/hackersatcambridge/workshop-example/blob/master/info/metadata.yaml
 
-# People who have directly contributed content to this workhsop
+# People who have directly contributed content to this workshop
 contributors:
   - Christian Silver
   - Nathanael Alcock
@@ -15,8 +15,12 @@ thanks:
 further_reading_links:
   - text: First Timers Only
     url: http://www.firsttimersonly.com/
-  - text: Up for grabs
+  - text: Up For Grabs
     url: http://up-for-grabs.net/
+  - text: First Contributions
+    url: https://github.com/Roshanjossey/first-contributions
+  - text: First Pull Request
+    url: http://firstpr.me/
 
 # (optional) Link to a video recording of the workshop
 # recording_link: https://www.youtube.com/watch?v=FHG2oizTlpY

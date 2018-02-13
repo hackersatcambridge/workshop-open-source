@@ -1,1 +1,1 @@
-If you want to start your first contribution there and then, you'll need a text editor and a Git client — Visual Studio Code (https://code.visualstudio.com/) and GitHub Desktop (https://desktop.github.com) are good tools to start off with.
+If you want to start your first contribution there and then, you'll need a text editor and a Git client — [Visual Studio Code](https://code.visualstudio.com/) and [GitHub Desktop](https://desktop.github.com) are good tools to start off with.
