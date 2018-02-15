@@ -23,6 +23,8 @@ further_reading_links:
     url: https://github.com/Roshanjossey/first-contributions
   - text: First Pull Request
     url: http://firstpr.me/
+  - text: SymPy
+    url: https://github.com/sympy/sympy
 
 # (optional) Link to a video recording of the workshop
 # recording_link: https://www.youtube.com/watch?v=FHG2oizTlpY
