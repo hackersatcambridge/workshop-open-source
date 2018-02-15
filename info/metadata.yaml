@@ -13,6 +13,8 @@ thanks:
 
 # (optional) Links that attendees may wish to read after the workshop
 further_reading_links:
+  - text: Feedback Form
+    url: https://docs.google.com/forms/d/e/1FAIpQLScC4dMjbafDyNNT8TWjxp4OftCY9gJ9YyyCESnrAUFNh2khyg/viewform?usp=sf_link
   - text: First Timers Only
     url: http://www.firsttimersonly.com/
   - text: Up For Grabs
