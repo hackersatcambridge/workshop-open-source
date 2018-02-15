@@ -25,6 +25,8 @@ further_reading_links:
     url: http://firstpr.me/
   - text: SymPy
     url: https://github.com/sympy/sympy
+  - text: Look at the PR we made in the workshop!
+    url: https://github.com/sympy/sympy/pull/14221
 
 # (optional) Link to a video recording of the workshop
 # recording_link: https://www.youtube.com/watch?v=FHG2oizTlpY
