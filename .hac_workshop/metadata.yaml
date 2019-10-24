@@ -4,17 +4,16 @@ title: Contributing to Open Source
 
 # People who have directly contributed content to this workshop
 contributors:
-  - Christian Silver
-  - Nathanael Alcock
-
-# (optional) Non-contributors we would like to thank for helping to inspire, develop or facilitate this workshop
-thanks:
   - Mukul Rathi
 
 # (optional) Links that attendees may wish to read after the workshop
 further_reading_links:
   - text: Feedback Form
     url: https://docs.google.com/forms/d/e/1FAIpQLScC4dMjbafDyNNT8TWjxp4OftCY9gJ9YyyCESnrAUFNh2khyg/viewform?usp=sf_link
+  - text: HacktoberFest
+    url: https://hacktoberfest.digitalocean.com/details
+  - text: Demo Repository
+    url: https://github.com/swfl-coders/website
   - text: First Timers Only
     url: http://www.firsttimersonly.com/
   - text: Up For Grabs
@@ -23,16 +22,10 @@ further_reading_links:
     url: https://github.com/Roshanjossey/first-contributions
   - text: First Pull Request
     url: http://firstpr.me/
-  - text: SymPy
-    url: https://github.com/sympy/sympy
-  - text: Look at the PR we made in the workshop!
-    url: https://github.com/sympy/sympy/pull/14221
 
 # (optional) Link to a video recording of the workshop
 # recording_link: https://www.youtube.com/watch?v=FHG2oizTlpY
 
-# (optional) Link to any slides associated with the workshop
-slides_link: https://docs.google.com/presentation/d/14dPGvMNAWoJQTZDPpmcuUcTYOGZs6-ljNpMRgO4tYo8/present
 
 # A set of keywords associated with the workshop
 tags:
